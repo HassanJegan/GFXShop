@@ -1,2 +1,2 @@
 # GFXShop
-Messing around with PhotoShop and Cinema 4D
+A showcase of what happens when I get bored. Graphics made in Photoshop and Cinema 4D.
